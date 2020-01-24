@@ -15,6 +15,6 @@ export const NewDiv = styled.div`
 
 export const SecDiv = styled.div`
     display: flex;
-    flex-align: center;
+    justify-content: center;
     flex-wrap: wrap;
 `;
